@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![quangit](https://circleci.com/gh/quangit/Project4.svg?style=svg)](https://circleci.com/gh/quangit/Project4)
 
 ## Project Overview
 
